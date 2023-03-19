@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I’m currently an Engineering Manager <a href=”www.credly.com”>Credly</a>.
+In my sparetime I'm learning Kotlin because I just got a cool watch and I have an idea for an app.
+
+
+Pronouns: he/him
