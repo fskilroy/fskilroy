@@ -13,9 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-I’m currently an Engineering Manager www.credly.com which is a Pearson Company.
 
-In my sparetime I'm learning Kotlin because I just got a cool watch and I have an idea for an app.
+I’m currently an Engineering Manager www.credly.com which is a Pearson Company.  Where I work with some of the brightest people in the tech industry. 
 
+In my spare time I'm learning Kotlin because I just got a cool watch and I have an idea for an app.
+
+I live in Queens, New York (the greatest borough in the greatest city in the world).
 
 Pronouns: he/him
