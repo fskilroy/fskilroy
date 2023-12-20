@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m currently an Engineering Manager www.credly.com (which is a Pearson Company) where I work with some of the brightest people in the tech industry. 
+I’m currently the Director of Technology at Blueprint Digital where I work with some of the brightest people in the tech industry. 
 
 In my spare time I'm learning Kotlin because I just got a cool watch and I have an idea for an app.
 
